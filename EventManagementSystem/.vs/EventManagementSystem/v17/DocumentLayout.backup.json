@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1491C7E6-F3A8-4AA9-96E3-CE5FA728245E}|EventManagementSystem\\EventManagementSystem.csproj|c:\\users\\jiledar pal\\source\\repos\\eventmanagementsystem\\eventmanagementsystem\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1491C7E6-F3A8-4AA9-96E3-CE5FA728245E}|EventManagementSystem\\EventManagementSystem.csproj|solutionrelative:eventmanagementsystem\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1491C7E6-F3A8-4AA9-96E3-CE5FA728245E}|EventManagementSystem\\EventManagementSystem.csproj|c:\\users\\jiledar pal\\source\\repos\\eventmanagementsystem\\eventmanagementsystem\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1491C7E6-F3A8-4AA9-96E3-CE5FA728245E}|EventManagementSystem\\EventManagementSystem.csproj|solutionrelative:eventmanagementsystem\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1491C7E6-F3A8-4AA9-96E3-CE5FA728245E}|EventManagementSystem\\EventManagementSystem.csproj|c:\\users\\jiledar pal\\source\\repos\\eventmanagementsystem\\eventmanagementsystem\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1491C7E6-F3A8-4AA9-96E3-CE5FA728245E}|EventManagementSystem\\EventManagementSystem.csproj|solutionrelative:eventmanagementsystem\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1491C7E6-F3A8-4AA9-96E3-CE5FA728245E}|EventManagementSystem\\EventManagementSystem.csproj|C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\eventmanagementsystem\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1491C7E6-F3A8-4AA9-96E3-CE5FA728245E}|EventManagementSystem\\EventManagementSystem.csproj|solutionrelative:eventmanagementsystem\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1491C7E6-F3A8-4AA9-96E3-CE5FA728245E}|EventManagementSystem\\EventManagementSystem.csproj|C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\eventmanagementsystem\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1491C7E6-F3A8-4AA9-96E3-CE5FA728245E}|EventManagementSystem\\EventManagementSystem.csproj|solutionrelative:eventmanagementsystem\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1491C7E6-F3A8-4AA9-96E3-CE5FA728245E}|EventManagementSystem\\EventManagementSystem.csproj|C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\eventmanagementsystem\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1491C7E6-F3A8-4AA9-96E3-CE5FA728245E}|EventManagementSystem\\EventManagementSystem.csproj|solutionrelative:eventmanagementsystem\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1491C7E6-F3A8-4AA9-96E3-CE5FA728245E}|EventManagementSystem\\EventManagementSystem.csproj|C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\eventmanagementsystem\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1491C7E6-F3A8-4AA9-96E3-CE5FA728245E}|EventManagementSystem\\EventManagementSystem.csproj|solutionrelative:eventmanagementsystem\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1491C7E6-F3A8-4AA9-96E3-CE5FA728245E}|EventManagementSystem\\EventManagementSystem.csproj|C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\eventmanagementsystem\\organizerdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1491C7E6-F3A8-4AA9-96E3-CE5FA728245E}|EventManagementSystem\\EventManagementSystem.csproj|solutionrelative:eventmanagementsystem\\organizerdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1491C7E6-F3A8-4AA9-96E3-CE5FA728245E}|EventManagementSystem\\EventManagementSystem.csproj|C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\eventmanagementsystem\\registerevent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1491C7E6-F3A8-4AA9-96E3-CE5FA728245E}|EventManagementSystem\\EventManagementSystem.csproj|solutionrelative:eventmanagementsystem\\registerevent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\EventManagementSystem\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "EventManagementSystem\\Register.aspx.cs",
+              "ToolTip": "C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\EventManagementSystem\\Register.aspx.cs",
+              "RelativeToolTip": "EventManagementSystem\\Register.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:16:51.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\EventManagementSystem\\Register.aspx",
+              "RelativeDocumentMoniker": "EventManagementSystem\\Register.aspx",
+              "ToolTip": "C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\EventManagementSystem\\Register.aspx",
+              "RelativeToolTip": "EventManagementSystem\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-28T15:15:23.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logout.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\EventManagementSystem\\Logout.aspx.cs",
+              "RelativeDocumentMoniker": "EventManagementSystem\\Logout.aspx.cs",
+              "ToolTip": "C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\EventManagementSystem\\Logout.aspx.cs",
+              "RelativeToolTip": "EventManagementSystem\\Logout.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:23:14.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logout.aspx",
+              "DocumentMoniker": "C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\EventManagementSystem\\Logout.aspx",
+              "RelativeDocumentMoniker": "EventManagementSystem\\Logout.aspx",
+              "ToolTip": "C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\EventManagementSystem\\Logout.aspx",
+              "RelativeToolTip": "EventManagementSystem\\Logout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-27T20:22:51.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\EventManagementSystem\\Login.aspx",
+              "RelativeDocumentMoniker": "EventManagementSystem\\Login.aspx",
+              "ToolTip": "C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\EventManagementSystem\\Login.aspx",
+              "RelativeToolTip": "EventManagementSystem\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-27T20:15:09.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\EventManagementSystem\\Default.aspx",
+              "RelativeDocumentMoniker": "EventManagementSystem\\Default.aspx",
+              "ToolTip": "C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\EventManagementSystem\\Default.aspx",
+              "RelativeToolTip": "EventManagementSystem\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-27T20:15:06.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminDashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\EventManagementSystem\\AdminDashboard.aspx",
+              "RelativeDocumentMoniker": "EventManagementSystem\\AdminDashboard.aspx",
+              "ToolTip": "C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\EventManagementSystem\\AdminDashboard.aspx",
+              "RelativeToolTip": "EventManagementSystem\\AdminDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-27T20:14:57.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrganizerDashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\EventManagementSystem\\OrganizerDashboard.aspx",
+              "RelativeDocumentMoniker": "EventManagementSystem\\OrganizerDashboard.aspx",
+              "ToolTip": "C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\EventManagementSystem\\OrganizerDashboard.aspx",
+              "RelativeToolTip": "EventManagementSystem\\OrganizerDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-27T20:15:11.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterEvent.aspx",
+              "DocumentMoniker": "C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\EventManagementSystem\\RegisterEvent.aspx",
+              "RelativeDocumentMoniker": "EventManagementSystem\\RegisterEvent.aspx",
+              "ToolTip": "C:\\Users\\JILEDAR PAL\\source\\repos\\EventManagementSystem\\EventManagementSystem\\RegisterEvent.aspx",
+              "RelativeToolTip": "EventManagementSystem\\RegisterEvent.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-27T20:15:13.168Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
